@@ -1,0 +1,22 @@
+{
+  "name": "react-smilga",
+  "version": "1.0.0",
+  "description": "this is my react playground for John Smilga course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astratow/react-smilga.git"
+  },
+  "author": "Artur Mickiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astratow/react-smilga/issues"
+  },
+  "homepage": "https://github.com/astratow/react-smilga#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
